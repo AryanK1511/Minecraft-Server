@@ -1,0 +1,45 @@
+[19:37:36] [User Authenticator #4/INFO]: UUID of player krinsss is 352b3d5b-cdef-4100-80f3-a1c97d13cbfb
+[19:37:37] [Server thread/INFO]: krinsss[/172.18.0.1:65150] logged in with entity id 47876 at (-2020.5537646617981, 68.0, -1248.5047434794744)
+[19:37:37] [Server thread/INFO]: krinsss joined the game
+[19:39:18] [Server thread/INFO]: krinsss lost connection: Disconnected
+[19:39:18] [Server thread/INFO]: krinsss left the game
+[19:40:00] [User Authenticator #5/INFO]: UUID of player krinsss is 352b3d5b-cdef-4100-80f3-a1c97d13cbfb
+[19:40:00] [Server thread/INFO]: krinsss[/172.18.0.1:62482] logged in with entity id 48346 at (-2007.925000011921, 63.0, -1246.6360660797573)
+[19:40:00] [Server thread/INFO]: krinsss joined the game
+[19:41:18] [User Authenticator #6/INFO]: UUID of player aryank1511 is f6a30dbb-4c94-4660-b535-568645ccda66
+[19:41:18] [Server thread/INFO]: aryank1511[/172.18.0.1:61012] logged in with entity id 48790 at (-2016.961272124032, 63.0, -1250.0392253783239)
+[19:41:18] [Server thread/INFO]: aryank1511 joined the game
+[19:51:10] [Server thread/INFO]: aryank1511 has made the advancement [A Seedy Place]
+[19:51:16] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2000ms or 40 ticks behind
+[19:54:26] [Server thread/INFO]: krinsss has made the advancement [Hot Stuff]
+[19:55:01] [Server thread/INFO]: aryank1511 has made the advancement [Ice Bucket Challenge]
+[20:40:00] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 5229ms or 104 ticks behind
+[20:40:01] [Server thread/INFO]: krinsss lost connection: Disconnected
+[20:40:01] [Server thread/INFO]: krinsss left the game
+[20:40:16] [User Authenticator #7/INFO]: UUID of player krinsss is 352b3d5b-cdef-4100-80f3-a1c97d13cbfb
+[20:40:17] [Server thread/INFO]: krinsss[/172.18.0.1:59504] logged in with entity id 60848 at (-2150.300000011921, -16.0, -1264.699999988079)
+[20:40:17] [Server thread/INFO]: krinsss joined the game
+[20:44:04] [Server thread/INFO]: <krinsss> w
+[20:44:59] [Server thread/INFO]: <krinsss> fucl
+[21:01:34] [Server thread/INFO]: aryank1511 has made the advancement [Best Friends Forever]
+[21:15:13] [Server thread/INFO]: aryank1511 has made the advancement [Take Aim]
+[21:15:20] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2065ms or 41 ticks behind
+[21:39:38] [Server thread/INFO]: aryank1511 lost connection: Disconnected
+[21:39:38] [Server thread/INFO]: aryank1511 left the game
+[21:40:04] [User Authenticator #8/INFO]: UUID of player aryank1511 is f6a30dbb-4c94-4660-b535-568645ccda66
+[21:40:04] [Server thread/INFO]: aryank1511[/172.18.0.1:55688] logged in with entity id 72877 at (-2016.8468014072148, 68.0, -1251.245105968409)
+[21:40:04] [Server thread/INFO]: aryank1511 joined the game
+[21:42:18] [Server thread/INFO]: aryank1511 has made the advancement [We Need to Go Deeper]
+[21:42:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 7425ms or 148 ticks behind
+[21:42:48] [Server thread/INFO]: krinsss has made the advancement [We Need to Go Deeper]
+[21:44:54] [Server thread/INFO]: krinsss was shot by Skeleton
+[21:45:52] [Server thread/INFO]: krinsss was doomed to fall
+[21:45:58] [Server thread/INFO]: aryank1511 was slain by Piglin
+[21:46:52] [Server thread/INFO]: krinsss was slain by Zombified Piglin
+[21:48:47] [Server thread/INFO]: aryank1511 fell from a high place
+[21:51:56] [Server thread/INFO]: krinsss was slain by Zombie
+[21:52:12] [Server thread/INFO]: krinsss lost connection: Disconnected
+[21:52:12] [Server thread/INFO]: krinsss left the game
+[21:52:37] [Server thread/INFO]: aryank1511 lost connection: Disconnected
+[21:52:37] [Server thread/INFO]: aryank1511 left the game
+[21:53:37] [Server thread/INFO]: Server empty for 60 seconds, pausing
